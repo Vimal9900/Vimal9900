@@ -7,8 +7,13 @@
 
 
 # 💫 About Me:
-I'm Vimal Kumar Verma, a passionate Data and Computational Science M.Tech. candidate at IIT Jodhpur with a strong foundation in data engineering, machine learning, and deep learning. I hold a B.Tech in Electronics and Communication Engineering and have professional experience as an ETL developer at Cognizant, where I optimized data pipelines and streamlined business intelligence processes using Python, SQL, and Apache Airflow.<br><br>My projects reflect a blend of academic rigor and real-world application—from forecasting electricity demand with ML models to predicting cloud movement using ConvLSTM networks on ISRO satellite imagery. I am certified in Azure and Databricks Data Engineering, and I'm always exploring innovative ways to apply data science for impactful solutions.
+I'm Vimal Kumar Verma, an M.Tech. candidate in Data and Computational Science at IIT Jodhpur, driven by curiosity and a deep love for data. With a background in Electronics and Communication Engineering and hands-on experience as an ETL Developer at Cognizant, I’ve built and optimized robust data pipelines using Python, SQL, and Apache Airflow to empower business intelligence at scale.
 
+⚙️ My journey merges academic research with real-world impact—ranging from electricity load forecasting using advanced ML models to cloud motion prediction with ConvLSTM networks on ISRO satellite imagery. I thrive at the intersection of data engineering and machine learning, always pushing the boundaries of what data can do.
+
+🧠 I’m certified in Azure and Databricks Data Engineering, and constantly exploring innovative ways to turn raw data into actionable insights and intelligent systems. Whether it’s through clean pipelines or cutting-edge deep learning, I’m passionate about building solutions that matter.
+
+Let’s connect through code and curiosity!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vimal9900/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vkverma9900) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@robo2.069) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vkverma9900@gmail.com) 
