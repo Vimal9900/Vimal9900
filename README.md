@@ -1,3 +1,18 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=koustubh1012.koustubh1012" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I+am+Koustubh!;" />
+</h1>
+
+<h3 align="center">A passionate robotics graduate student at the University of Maryland, College Park</h3>
+
+<h1 align="center">
+    <img src="https://github.com/koustubh1012/koustubh1012/blob/main/University_of_Maryland_seal.png" width="150"/>
+</h1>
+
+<br/>
+
+
 # 💫 About Me:
 I'm Vimal Kumar Verma, a passionate Data and Computational Science M.Tech. candidate at IIT Jodhpur with a strong foundation in data engineering, machine learning, and deep learning. I hold a B.Tech in Electronics and Communication Engineering and have professional experience as an ETL developer at Cognizant, where I optimized data pipelines and streamlined business intelligence processes using Python, SQL, and Apache Airflow.<br><br>My projects reflect a blend of academic rigor and real-world application—from forecasting electricity demand with ML models to predicting cloud movement using ConvLSTM networks on ISRO satellite imagery. I am certified in Azure and Databricks Data Engineering, and I'm always exploring innovative ways to apply data science for impactful solutions.
 
