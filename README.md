@@ -1,16 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=koustubh1012.koustubh1012" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vimal9900.Vimal9900" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I+am+Koustubh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I+am+Vimal!;" />
 </h1>
 
-<h3 align="center">A passionate robotics graduate student at the University of Maryland, College Park</h3>
-
-<h1 align="center">
-    <img src="https://github.com/koustubh1012/koustubh1012/blob/main/University_of_Maryland_seal.png" width="150"/>
-</h1>
-
-<br/>
 
 
 # 💫 About Me:
